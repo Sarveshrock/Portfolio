@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/Sarveshrock/Portfolio.git/Portfolio/static/css/main.f9cf308e.css",
-    "main.js": "/Sarveshrock/Portfolio.git/Portfolio/static/js/main.9e634835.js",
+    "main.css": "/Sarveshrock/Portfolio.git/Portfolio/static/css/main.651b3ef5.css",
+    "main.js": "/Sarveshrock/Portfolio.git/Portfolio/static/js/main.58e358bb.js",
     "static/js/787.1ed0c42c.chunk.js": "/Sarveshrock/Portfolio.git/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/vi.mp4": "/Sarveshrock/Portfolio.git/Portfolio/static/media/vi.8aa15582330f03e40502.mp4",
     "static/media/color-sharp.png": "/Sarveshrock/Portfolio.git/Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Sarveshrock/Portfolio.git/Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/c4.png": "/Sarveshrock/Portfolio.git/Portfolio/static/media/c4.a55c8f89a272e44235a9.png",
+    "static/media/bitdegree-certificate-1331946.jpeg": "/Sarveshrock/Portfolio.git/Portfolio/static/media/bitdegree-certificate-1331946.bf20d261738a8919a2c0.jpeg",
+    "static/media/c6.jpeg": "/Sarveshrock/Portfolio.git/Portfolio/static/media/c6.72d46ef70aac3d5ac279.jpeg",
+    "static/media/c3.jpg": "/Sarveshrock/Portfolio.git/Portfolio/static/media/c3.b6a4065df92dcd28391c.jpg",
     "static/media/banner-bg.png": "/Sarveshrock/Portfolio.git/Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/Sarveshrock/Portfolio.git/Portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/c7.jpg": "/Sarveshrock/Portfolio.git/Portfolio/static/media/c7.a97e1ad90754fc1d3458.jpg",
     "static/media/project-img1.png": "/Sarveshrock/Portfolio.git/Portfolio/static/media/project-img1.d593db3f12901bc685c2.png",
     "static/media/footer-bg.png": "/Sarveshrock/Portfolio.git/Portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/project-img2.png": "/Sarveshrock/Portfolio.git/Portfolio/static/media/project-img2.2e52097c417f9f1134b0.png",
     "static/media/project-img3.png": "/Sarveshrock/Portfolio.git/Portfolio/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/contact-img.svg": "/Sarveshrock/Portfolio.git/Portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/c2.jpg": "/Sarveshrock/Portfolio.git/Portfolio/static/media/c2.556bcfa18811199fc4fc.jpg",
+    "static/media/c1.jpg": "/Sarveshrock/Portfolio.git/Portfolio/static/media/c1.69c9cc949e0341884a41.jpg",
     "static/media/revicons.eot": "/Sarveshrock/Portfolio.git/Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Sarveshrock/Portfolio.git/Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/nav-icon2.svg": "/Sarveshrock/Portfolio.git/Portfolio/static/media/nav-icon2.e837d4bf1bcddbdde9b99313605b8939.svg",
@@ -27,12 +34,12 @@
     "static/media/CentraNo2-Bold.ttf": "/Sarveshrock/Portfolio.git/Portfolio/static/media/CentraNo2-Bold.1558b7ec1b8187a77199.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Sarveshrock/Portfolio.git/Portfolio/static/media/CentraNo2-Medium.1558b7ec1b8187a77199.ttf",
     "static/media/CentraNo2-Book.ttf": "/Sarveshrock/Portfolio.git/Portfolio/static/media/CentraNo2-Book.d617f02881c0c848f9e6.ttf",
-    "main.f9cf308e.css.map": "/Sarveshrock/Portfolio.git/Portfolio/static/css/main.f9cf308e.css.map",
-    "main.9e634835.js.map": "/Sarveshrock/Portfolio.git/Portfolio/static/js/main.9e634835.js.map",
+    "main.651b3ef5.css.map": "/Sarveshrock/Portfolio.git/Portfolio/static/css/main.651b3ef5.css.map",
+    "main.58e358bb.js.map": "/Sarveshrock/Portfolio.git/Portfolio/static/js/main.58e358bb.js.map",
     "787.1ed0c42c.chunk.js.map": "/Sarveshrock/Portfolio.git/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9cf308e.css",
-    "static/js/main.9e634835.js"
+    "static/css/main.651b3ef5.css",
+    "static/js/main.58e358bb.js"
   ]
 }
