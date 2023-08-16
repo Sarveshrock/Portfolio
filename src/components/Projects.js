@@ -3,6 +3,13 @@ import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/project-img1.png";
 import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
+import c1 from "../assets/img/c1.jpg"
+import c2 from "../assets/img/c2.jpg"
+import c3 from "../assets/img/c3.jpg"
+import c4 from "../assets/img/c4.png"
+import c5 from "../assets/img/bitdegree-certificate-1331946.jpeg"
+import c6 from "../assets/img/c6.jpeg"
+import c7 from "../assets/img/c7.jpg"
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -46,8 +53,47 @@ export const Projects = () => {
       title: "HTML CSS JS",
       description: "Design & Development",
       imgUrl: projImg3,
-    },
+    }
   ];
+
+  const certificates = [
+    {
+      title: "Certificate 1",
+      description: "Design & Development",
+      imgUrl: c1,
+    },
+    {
+      title: "Certificate 2",
+      description: "Design & Development",
+      imgUrl: c2,
+    },
+    {
+      title: "Certificate 3",
+      description: "Design & Development",
+      imgUrl: c3,
+    },
+    {
+      title: "Certificate 4",
+      description: "Design & Development",
+      imgUrl: c4,
+    },
+    {
+      title: "Certificate 5",
+      description: "Design & Development",
+      imgUrl: c5,
+    },
+    {
+      title: "Certificate 6",
+      description: "Design & Development",
+      imgUrl: c6,
+    },
+    {
+      title: "Certificate 7",
+      description: "Design & Development",
+      imgUrl: c7,
+    }
+  ];
+
 
   return (
     <section className="project" id="project">
@@ -105,10 +151,11 @@ export const Projects = () => {
                         </Row>
                       </Tab.Pane>
                       <Tab.Pane eventKey="second">
-                        <p>
-                          AUR PORJECT DALUGA TAB DEKHNA . Abhi TAB1 me dekhte
-                          raho
-                        </p>
+                      <Row>
+                          {certificates.map((project, index) => {
+                            return <ProjectCard key={index} {...project} />;
+                          })}
+                        </Row>
                       </Tab.Pane>
                       <Tab.Pane eventKey="third">
                         <p>
